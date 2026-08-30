@@ -1,1 +1,0 @@
-# smart-placement-management-system
